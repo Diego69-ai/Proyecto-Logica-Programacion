@@ -20,7 +20,7 @@ Es parte de la materia **Lógica de Programación**, dentro del trabajo autónom
 
 ---
 
-## 🗂 Estructura del proyecto
+##  Estructura del proyecto
 
 Proyecto-Logica-Programacion/
 ├── Diagramas/
@@ -30,7 +30,7 @@ Proyecto-Logica-Programacion/
 
 ---
 
-## 💻 Herramientas utilizadas
+##  Herramientas utilizadas
 
 - Python
 - Git y GitHub
