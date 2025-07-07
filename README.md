@@ -86,4 +86,4 @@ El archivo `main.py` fue actualizado con la nueva lógica del juego.
 
 ###  Video demostrativo del Paso 2
 
-🔗 [Enlace al video de demostración y explicación (a insertar cuando lo tengas)]
+🔗 [Enlace al video de demostración y explicación https://youtu.be/2b0ekCMgXJo ]
