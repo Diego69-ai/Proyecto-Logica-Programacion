@@ -47,7 +47,7 @@ Proyecto-Logica-Programacion/
 
 ##  Video explicativo
 
-🔗 [Enlace al video explicativo (a insertar)]
+🔗 [Enlace al video explicativo https://youtu.be/kCtrB-WuLSc ]
 
 ---
 
