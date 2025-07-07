@@ -51,3 +51,39 @@ Proyecto-Logica-Programacion/
 
 ---
 
+---
+
+##  Paso 2 – Desarrollo del juego
+
+En esta etapa se desarrolló una primera versión funcional del juego **Piedra, Papel o Tijera**.
+
+###  ¿Cómo funciona?
+
+- El usuario elige entre 1 (piedra), 2 (papel) o 3 (tijera).
+- La computadora siempre elige piedra (versión simplificada sin módulos ni listas).
+- Se comparan las elecciones y se muestra si el jugador ganó, perdió o empató.
+- El juego se repite hasta que el usuario escriba "no".
+
+---
+
+###  Funcionalidades implementadas
+
+- Entrada por teclado con `input()`
+- Condicionales: `if`, `elif`, `else`
+- Ciclo `while` para repetir el juego
+- Validación de entrada simple
+- Comentarios en el código para facilitar su comprensión
+
+---
+
+###  Código fuente actualizado
+
+El archivo `main.py` fue actualizado con la nueva lógica del juego.
+
+🔗 Puedes ver el código aquí: [main.py](./main.py)
+
+---
+
+###  Video demostrativo del Paso 2
+
+🔗 [Enlace al video de demostración y explicación (a insertar cuando lo tengas)]
